@@ -1,0 +1,9 @@
+1. Create the react app using npx create-react-app {app-name}
+
+2. npm start to start the web app
+
+3. npm i styled-components axios --save to install libraries (styled-components & axios)
+
+4. Remove style components and some files (src --> App.css, App.test.js, logo.svg, reportWbVitals.js, setupTests.js)
+
+5. 
